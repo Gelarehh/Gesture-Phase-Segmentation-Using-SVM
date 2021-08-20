@@ -11,3 +11,42 @@ SVM algorithms use a set of mathematical functions defined as kernels. Their cor
 
 
 ## Dataset
+
+   1. Vectorial velocity of left hand (x coordinate)
+   2. Vectorial velocity of left hand (y coordinate)
+   3. Vectorial velocity of left hand (z coordinate)
+   4. Vectorial velocity of right hand (x coordinate)
+   5. Vectorial velocity of right hand (y coordinate)
+   6. Vectorial velocity of right hand (z coordinate)
+   7. Vectorial velocity of left wrist (x coordinate)
+   8. Vectorial velocity of left wrist (y coordinate)
+   9. Vectorial velocity of left wrist (z coordinate)
+   10. Vectorial velocity of right wrist (x coordinate)
+   11. Vectorial velocity of right wrist (y coordinate)
+   12. Vectorial velocity of right wrist (z coordinate)
+   13. Vectorial acceleration of left hand (x coordinate)
+   14. Vectorial acceleration of left hand (y coordinate)
+   15. Vectorial acceleration of left hand (z coordinate)
+   16. Vectorial acceleration of right hand (x coordinate)
+   17. Vectorial acceleration of right hand (y coordinate)
+   18. Vectorial acceleration of right hand (z coordinate)
+   19. Vectorial acceleration of left wrist (x coordinate)
+   20. Vectorial acceleration of left wrist (y coordinate)
+   21. Vectorial acceleration of left wrist (z coordinate)
+   22. Vectorial acceleration of right wrist (x coordinate)
+   23. Vectorial acceleration of right wrist (y coordinate)
+   24. Vectorial acceleration of right wrist (z coordinate)
+   25. Scalar velocity of left hand
+   26. Scalar velocity of right hand
+   27. Scalar velocity of left wrist
+   28. Scalar velocity of right wrist
+   29. Scalar velocity of left hand
+   30. Scalar velocity of right hand
+   31. Scalar velocity of left wrist
+   32. Scalar velocity of right wrist
+   33. phase:
+		> D (rest position, from portuguese "descanso")
+		> P (preparation)
+		> S (stroke)
+		> H (hold)
+		> R (retraction)
