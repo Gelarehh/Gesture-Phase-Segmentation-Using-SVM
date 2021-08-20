@@ -11,6 +11,7 @@ SVM algorithms use a set of mathematical functions defined as kernels. Their cor
 
 
 ## Dataset
+The data set contains features extracted from a video of people's gestures, intending to study Gesture Phase Segmentation. These features include speed and acceleration of the hands and wrists and are divided into 32 feature categories and one phase category.
 
    1. Vectorial velocity of left hand (x coordinate)
    2. Vectorial velocity of left hand (y coordinate)
