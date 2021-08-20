@@ -1,4 +1,4 @@
-# Support Vector Machines (SVM)
+# Gesture Phase Segmentation Using Support Vector Machine (SVM) Classifier
 The SVM model gives a representation of data samples in the form of data points in n-dimensional space.  Thus, the samples fall into various categories, separated by a gap that is as large as possible. In addition to performing linear categorization, SVM can also perform nonlinear categorization efficiently and map inputs to high-dimensional data space, each belonging to a specific category. The SVM builds a model during the training process that assigns new instances to one category or another. What the backup vector machine does is the consideration of an area of ​​definite width that distinguishes data sets.
 
 <br/><br/>
