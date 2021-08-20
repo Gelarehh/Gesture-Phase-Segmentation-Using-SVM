@@ -47,6 +47,6 @@ SVM algorithms use a set of mathematical functions defined as kernels. Their cor
    33. phase:
 - D (rest position, from portuguese "descanso")
 - P (preparation)
--S (stroke)
+- S (stroke)
 - H (hold)
 - R (retraction)
