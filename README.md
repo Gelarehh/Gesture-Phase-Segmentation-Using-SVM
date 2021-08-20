@@ -45,8 +45,8 @@ SVM algorithms use a set of mathematical functions defined as kernels. Their cor
    31. Scalar velocity of left wrist
    32. Scalar velocity of right wrist
    33. phase:
-		> D (rest position, from portuguese "descanso")
-		> P (preparation)
-		> S (stroke)
-		> H (hold)
-		> R (retraction)
+- D (rest position, from portuguese "descanso")
+- P (preparation)
+-S (stroke)
+- H (hold)
+- R (retraction)
