@@ -45,7 +45,7 @@ The data set contains features extracted from a video of people's gestures, inte
    30. Scalar velocity of right hand
    31. Scalar velocity of left wrist
    32. Scalar velocity of right wrist
-   33. phase:
+   33. Gesture Phase:
 - D (rest position, from portuguese "descanso")
 - P (preparation)
 - S (stroke)
